@@ -1,0 +1,15 @@
+2025/02/14-20:30:34.702 2da0 Reusing MANIFEST C:\Users\iamno\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\fheoggkfdfchfphceeifdbepaooicaho/MANIFEST-000001
+2025/02/14-20:30:34.703 2da0 Recovering log #1109
+2025/02/14-20:30:34.792 2da0 Reusing old log C:\Users\iamno\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\fheoggkfdfchfphceeifdbepaooicaho/001109.log 
+2025/02/14-20:30:35.772 2da0 Compacting 1@0 + 1@1 files
+2025/02/14-20:30:35.778 2da0 Generated table #1112@0: 20 keys, 126894 bytes
+2025/02/14-20:30:35.778 2da0 Compacted 1@0 + 1@1 files => 126894 bytes
+2025/02/14-20:30:35.779 2da0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/14-20:30:35.779 2da0 Delete type=2 #1108
+2025/02/14-20:30:35.779 2da0 Delete type=2 #1110
+2025/02/14-20:53:52.785 2cf0 Level-0 table #1114: started
+2025/02/14-20:53:52.794 2cf0 Level-0 table #1114: 980072 bytes OK
+2025/02/14-20:53:52.795 2cf0 Delete type=0 #1109
+2025/02/15-22:14:07.035 3b84 Level-0 table #1116: started
+2025/02/15-22:14:07.056 3b84 Level-0 table #1116: 1059611 bytes OK
+2025/02/15-22:14:07.062 3b84 Delete type=0 #1113
